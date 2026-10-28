@@ -1,0 +1,201 @@
+id,person_id,hotel_checkin_id,suspicious_activity
+1,1,45,Solicitou toalhas extras
+2,2,12,NULL
+3,3,78,Utilizou a academia do hotel
+4,4,23,Pediu serviço de quarto
+5,5,56,NULL
+6,6,34,Visto entrando tarde da noite
+7,7,89,Visto discutindo com uma pessoa desconhecida
+8,8,2,Saiu abruptamente às 3 da manhã
+9,9,67,Solicitou chamada de despertar
+10,10,91,NULL
+11,11,15,Tomou café da manhã no restaurante do hotel
+12,12,88,NULL
+13,13,33,Utilizou o serviço de manobrista
+14,14,76,NULL
+15,15,44,Pediu indicações para a praia
+16,16,29,Utilizou o centro de negócios
+17,17,82,NULL
+18,18,51,Solicitou mapa da cidade
+19,19,93,NULL
+20,20,38,Utilizou o serviço de concierge
+21,21,5,NULL
+22,22,71,Pegou emprestado toalhas da piscina
+23,23,19,Perguntou sobre horário de check-out
+24,24,84,NULL
+25,25,47,Utilizou a máquina de venda automática do hotel
+26,26,63,NULL
+27,27,31,Solicitou entrega de jornal
+28,28,95,NULL
+29,29,22,Utilizou o restaurante do hotel
+30,30,86,NULL
+31,31,41,Perguntou sobre o cardápio do serviço de quarto
+32,32,73,Utilizou o elevador
+33,33,8,NULL
+34,34,59,Solicitou toalhas frescas
+35,35,27,NULL
+36,36,92,Utilizou o estacionamento do hotel
+37,37,16,NULL
+38,38,83,Perguntou sobre serviço de lavanderia
+39,39,54,Utilizou a máquina de gelo
+40,40,37,NULL
+41,41,69,Solicitou sabonete extra
+42,42,11,NULL
+43,43,75,Utilizou o telefone do hotel
+44,44,48,NULL
+45,45,94,Perguntou sobre horário de check-in
+46,46,25,Utilizou o banheiro do saguão
+47,47,61,NULL
+48,48,14,Solicitou limpeza do quarto
+49,49,87,NULL
+50,50,36,Utilizou o elevador do hotel
+51,51,72,NULL
+52,52,3,Perguntou sobre horário do café da manhã
+53,53,58,Utilizou a academia do hotel
+54,54,96,NULL
+55,55,43,Solicitou travesseiros extras
+56,56,81,NULL
+57,57,28,Utilizou o restaurante do hotel
+58,58,65,NULL
+59,59,17,Perguntou sobre atrações locais
+60,60,90,Utilizou a máquina de venda automática
+61,61,52,NULL
+62,62,39,Solicitou serviço de táxi
+63,63,77,NULL
+64,64,21,Utilizou o saguão do hotel
+65,65,85,Perguntou sobre horário da piscina
+66,66,49,NULL
+67,67,6,Utilizou a vaga VIP de estacionamento do hotel
+68,68,62,NULL
+69,69,35,Solicitou troca da chave do quarto
+70,70,88,NULL
+71,71,13,Utilizou a academia do hotel
+72,72,57,Perguntou sobre o processo de check-out
+73,73,97,NULL
+74,74,42,Utilizou o estacionamento do hotel
+75,75,79,NULL
+76,76,24,Solicitou chamada de despertar
+77,77,66,NULL
+78,78,9,Utilizou o restaurante do hotel
+79,79,53,Perguntou sobre serviço de quarto
+80,80,98,NULL
+81,81,32,Utilizou o centro de negócios
+82,82,74,NULL
+83,83,18,Solicitou toalhas extras
+84,84,60,NULL
+85,85,4,Utilizou a piscina do hotel
+86,86,55,NULL
+87,87,99,Perguntou sobre serviço de alimentação
+88,88,46,Utilizou o serviço de manobrista
+89,89,80,NULL
+90,90,26,Solicitou limpeza do quarto
+91,91,68,NULL
+92,92,7,Utilizou a academia do hotel
+93,93,50,NULL
+94,94,91,Perguntou sobre o café da manhã
+95,95,30,NULL
+96,96,64,Utilizou o restaurante do hotel
+97,97,20,NULL
+98,98,86,Solicitou travesseiros extras
+99,99,40,NULL
+100,100,70,Utilizou o serviço de concierge
+101,101,45,Pediu o cardápio do serviço de quarto
+102,102,12,NULL
+103,103,78,Utilizou as instalações do spa
+104,104,23,Solicitou check-out tardio
+105,105,56,NULL
+106,106,34,Utilizou o centro de negócios
+107,107,89,NULL
+108,108,2,Perguntou sobre passeios locais
+109,109,67,Utilizou a academia
+110,110,91,NULL
+111,111,15,Solicitou transporte para o aeroporto
+112,112,88,NULL
+113,113,33,Utilizou o serviço de quarto
+114,114,76,NULL
+115,115,44,Pediu cobertores extras
+116,116,29,Utilizou a piscina
+117,117,82,NULL
+118,118,51,Solicitou chamada de despertar
+119,119,93,NULL
+120,120,38,Utilizou o serviço de manobrista
+121,121,5,NULL
+122,122,71,Perguntou sobre horário do restaurante
+123,123,19,Utilizou a academia
+124,124,84,NULL
+125,125,47,Solicitou limpeza do quarto
+126,126,63,NULL
+127,127,31,Utilizou a sala de conferências
+128,128,95,NULL
+129,129,22,Pediu toalhas extras
+130,130,86,NULL
+131,131,41,Utilizou a sauna
+132,132,73,Solicitou serviço de táxi
+133,133,8,NULL
+134,134,59,Utilizou o bar
+135,135,27,NULL
+136,136,92,Perguntou sobre atrações locais
+137,137,16,NULL
+138,138,83,Utilizou o serviço de quarto
+139,139,54,Solicitou travesseiros extras
+140,140,37,NULL
+141,141,69,Utilizou a academia
+142,142,11,NULL
+143,143,75,Perguntou sobre horário de check-out
+144,144,48,NULL
+145,145,94,Utilizou a piscina
+146,146,25,Solicitou serviço de quarto
+147,147,61,NULL
+148,148,14,Utilizou o serviço de manobrista
+149,149,87,NULL
+150,150,36,Pediu indicações
+151,151,72,NULL
+152,152,3,Utilizou o centro de negócios
+153,153,58,Solicitou chamada de despertar
+154,154,96,NULL
+155,155,43,Utilizou o restaurante
+156,156,81,NULL
+157,157,28,Quebrou a máquina de venda automática
+158,158,65,NULL
+159,159,17,Utilizou a academia
+160,160,90,Solicitou limpeza do quarto
+161,161,52,NULL
+162,162,39,Utilizou o spa
+163,163,77,NULL
+164,164,21,Pediu toalhas extras
+165,165,85,Utilizou o serviço de quarto
+166,166,49,NULL
+167,167,6,Solicitou check-out tardio
+168,168,62,NULL
+169,169,35,Utilizou a sala de conferências
+170,170,88,NULL
+171,171,13,Perguntou sobre passeios locais
+172,172,57,Utilizou a piscina
+173,173,97,NULL
+174,174,42,Solicitou transporte para o aeroporto
+175,175,79,NULL
+176,176,24,Utilizou a academia
+177,177,66,NULL
+178,178,9,Pediu cobertores extras
+179,179,53,Utilizou o serviço de manobrista
+180,180,98,NULL
+181,181,32,Solicitou serviço de quarto
+182,182,74,NULL
+183,183,18,Utilizou a sauna
+184,184,60,NULL
+185,185,4,Perguntou sobre horário do restaurante
+186,186,55,NULL
+187,187,99,Utilizou o bar
+188,188,46,Solicitou serviço de táxi
+189,189,80,NULL
+190,190,26,Utilizou a academia
+191,191,68,NULL
+192,192,7,Pediu indicações
+193,193,50,NULL
+194,194,91,Utilizou o serviço de quarto
+195,195,30,NULL
+196,196,64,Solicitou chamada de despertar
+197,197,20,NULL
+198,198,86,Utilizou o centro de negócios
+199,199,40,NULL
+200,200,70,Perguntou sobre horário de check-out
